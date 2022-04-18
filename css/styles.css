@@ -12,6 +12,7 @@ body{
     position: relative;
     align-items: center;
     justify-content: center;
+    background-color: hsl(0, 0%, 95%);
     font-family: 'Lexend Deca', sans-serif;
     color: hsla(0, 0%, 100%, 0.75);
     font-size: 15px;
@@ -52,6 +53,7 @@ section img{
 }
 
 h1{
+    color: white;
     font-family: 'Big Shoulders Display', cursive;
     margin-bottom: 30px;
     font-size: 3em;
